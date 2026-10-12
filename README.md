@@ -1,5 +1,9 @@
 # DMARC Desk
 
+## TL;DR
+
+A fast, private desktop viewer for DMARC aggregate reports. Point it at a folder of `.xml`/`.zip`/`.gz` reports and inspect them together; files are read in place and never uploaded. Goal: understand your email authentication posture without handing your data to a third-party service.
+
 A fast, private desktop viewer for DMARC aggregate reports. Drop many `.xml`, `.zip`, and `.gz` reports into one folder, open that folder, and inspect them together. Files are read directly from archives and are never uploaded or extracted onto disk.
 
 ## Run
